@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="meaningful_re",
-    version="0.1.22",
+    version="0.1.23",
     description="Regular expression builder with chainable methods.",
     long_description=README,
     long_description_content_type="text/markdown",
