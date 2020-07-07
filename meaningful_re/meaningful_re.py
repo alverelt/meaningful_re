@@ -112,7 +112,7 @@ class MeaningfulRE(Expression):
         """ Adds a \e to the pattern."""
         return self.concat(MeaningfulRE.ESCAPE)
 
-    property
+    @property
     def vertical_tab(self):
         """ Adds a \v to the pattern."""
         return self.concat(MeaningfulRE.VERTICAL_TAB)
