@@ -1,5 +1,5 @@
 # meaningful_re
-Regular expression builder with chainable methods.
+Experimental regular expression builder with chainable methods.
 
 Instead of having to read and figure out the meaning of those weird strings, you can use an object to build your regex with methods with more sense.
 
